@@ -1,0 +1,12 @@
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\bin\Debug\Lateris Pizza.exe.config
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\bin\Debug\Lateris Pizza.exe
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\bin\Debug\Lateris Pizza.pdb
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\obj\Debug\Lateris Pizza.csprojAssemblyReference.cache
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\obj\Debug\Lateris_Pizza.Properties.Resources.resources
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\obj\Debug\Lateris Pizza.csproj.GenerateResource.cache
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\obj\Debug\Lateris Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\obj\Debug\Lateris Pizza.exe
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\obj\Debug\Lateris Pizza.pdb
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\obj\Debug\Lateris_Pizza.giris.resources
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\obj\Debug\Lateris_Pizza.kayit.resources
+C:\Users\Muhammet\source\repos\Lateris Pizza\Lateris Pizza\obj\Debug\Lateris_Pizza.anaekran.resources
